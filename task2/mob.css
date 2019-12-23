@@ -1,0 +1,108 @@
+@media screen and (max-width: 425px) {
+	*{
+	box-sizing: border-box;
+}
+body {
+	margin: 0px;
+}
+.na1 {
+	width: 100%;
+	height: 170px;
+	display: block;
+	list-style-type: none;
+	background-color: blue;
+    color: white;
+    margin: 30px 0px 0px 0px;
+    border-radius: 10px;
+    font-family: sans-serif;
+ }
+ .na1 li {
+ 	padding: 20px 10px 0px 0px;
+ }
+ h2 {
+ 	font-size: 25px;
+ 	font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+ 	color: #007bff;
+ 	text-decoration: underline;
+ 	line-height: 35px;
+
+ }
+ p {
+ 	font-size: 16px;
+ 	font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+ }
+.center .c1 {
+ 	width: 92%;
+ 	margin: 20px 0px 0px 20px;
+ 	line-height: 25px;
+ }
+ table th {
+ 	font-size: 27px;
+ 	font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+ 	color: #007bff;
+ 	text-decoration: underline;
+ 	float: left;
+ 	border: hidden;
+ 	margin: 10px 0px -10px 15px;
+ }
+ table {
+ 	width: 93%;
+ 	height: 230px;
+ 	margin: 0px 0px 0px 15px;
+
+ }
+ table, th, td {
+ 	border: 1px solid lightgrey;
+ 	border-collapse: collapse;
+ }
+ table, td {
+ 	text-align: center;
+ 		font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+ 		color: #007bff;
+ }
+ .colm {
+ 	width: 93%;
+ 	height: 170px;
+ 	margin: 40px 0px 0px 15px;
+ 	border: 1px solid lightgrey;
+ 	background-color: #f8f9fa;
+
+ }
+ h1 {
+ 	font-size: 27px;
+ 	font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+ 	color: #007bff;
+ 	text-decoration: underline;
+ 	float: left;
+ 	border: hidden;
+ 	margin: 10px 0px -10px 10px;
+ }
+.colm p {
+     	font-size: 16px;
+ 	font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+ 	padding: 40px 0px 0px 10px;
+}
+.colm a {
+	padding-left: 10px;
+		font-size: 16px;
+ 	font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+ 	text-decoration: none;
+ 	color: #007bff;
+
+
+}
+.last {
+	width: 100%;
+	height: 50px;
+	background-color: blue;
+    color: white;
+    margin: 30px 0px 0px 0px;
+    border-radius: 10px;
+    font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    
+}
+.last p {
+	text-align: center;
+	padding-top: 20px;
+}
+ }
